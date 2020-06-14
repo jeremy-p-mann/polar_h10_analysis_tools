@@ -11,6 +11,7 @@ pandas = "*"
 seaborn = "*"
 matplotlib = "*"
 sklearn = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.7"
